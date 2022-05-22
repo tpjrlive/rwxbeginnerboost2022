@@ -4,6 +4,7 @@
 * What is NAT and Bridged? (20220522174202)
 * What is an IP Address?
 * What is git-bash and why would I need it?
+* 
 
 ## Commands
 
